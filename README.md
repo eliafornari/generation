@@ -16,4 +16,4 @@ Code for the MEAN Soup to Bits
 
 * `npm rstart` to start the node server
 
-* `seed database` mongoimport --db ogeneration --collection product --type json --file server/data/product.json --jsonArray --drop
+* `seed database` mongoimport --db generation --collection product --type json --file server/data/product.json --jsonArray --drop
