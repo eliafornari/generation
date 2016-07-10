@@ -1,0 +1,34 @@
+[
+  {
+    "category_id":"CJK",
+    "name":"jacket"
+  },
+  {
+    "category_id":"CSR",
+    "name":"shirt"
+  },
+  {
+    "category_id":"CTS",
+    "name":"t-shirt"
+  },
+  {
+    "category_id":"CSH",
+    "name":"shoe"
+  },
+  {
+    "category_id":"CHT",
+    "name":"hat"
+  },
+  {
+    "category_id":"CUW",
+    "name":"underwear"
+  },
+  {
+    "category_id":"CJR",
+    "name":"jewelry"
+  },
+  {
+    "category_id":"CSK",
+    "name":"skate"
+  }
+]
